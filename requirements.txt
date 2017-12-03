@@ -1,1 +1,2 @@
 Scrapy==1.4.0
+scrapy-s3pipeline==0.1.1
